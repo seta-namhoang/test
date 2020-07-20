@@ -1,0 +1,119 @@
+.material-icons.md-light {
+  color: rgba(255, 255, 255, 1) !important;
+}
+
+.material-icons.md-light.md-inactive {
+  color: rgba(255, 255, 255, 0.3) !important;
+}
+
+.material-icons.md-36 {
+  font-size: 200% !important;
+}
+
+.container {
+  margin-right: 3px !important;
+  margin-left: 3px !important;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  min-width: 950px;
+}
+
+.col-sm {
+  margin: 10px 25px;
+  flex-basis: 0;
+  flex-grow: 1;
+  max-width: 100%;
+  position: relative;
+}
+
+.range-button {
+  width: 2rem;
+  height: 2rem;
+  background-position: center;
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
+
+.title {
+  color: #3a454d !important;
+  font-size: 16px !important;
+  font-weight: 500 !important;
+  line-height: 28px !important;
+  padding-top: 16px;
+}
+
+.content {
+  color: #3a454d !important;
+  font-size: 32px !important;
+  font-weight: 300 !important;
+  line-height: 38px !important;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 5px;
+  .card-value {
+    font-size: 24px;
+  }
+  .content-box:first-child .card-value {
+    color: #1262a5;
+  }
+  .content-box:last-child .card-value {
+    color: #8f0a0c;
+    text-align: right;
+  }
+  .card-label {
+    font-style: italic;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 28px;
+    color: #90a0b7;
+  }
+}
+
+.card-title {
+  padding-bottom: 0;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 16px;
+}
+
+.card-traffic-from-ads {
+  background-color: #4748b1 !important;
+  width: 100%;
+  color: white !important;
+}
+
+.card-item {
+  background-color: #ffffff !important;
+  width: 100%;
+  color: #3a454d;
+  box-shadow: 0px 4px 10px rgba(221, 221, 221, 0.25);
+  border-radius: 4px;
+}
+
+.icon-info {
+  color: rgba(255, 255, 255, 0.2);
+  font-size: 30px;
+  margin-top: -5px;
+}
+
+.card-title-icon {
+  width: 40px;
+  height: 40px;
+  display: flex;
+}
+.stock {
+  background-color: #F2994A;
+}
+.selled {
+  background-color: #2F80ED;
+}
+.actived {
+  background-color: #27AE60;
+}
+.store {
+  background-color: #9B51E0;
+}

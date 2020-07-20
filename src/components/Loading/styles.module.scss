@@ -1,0 +1,10 @@
+.loading-container {
+  z-index: 9999;
+  width: 100%;
+  position: absolute;
+  background-color: white;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

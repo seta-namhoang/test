@@ -1,0 +1,18 @@
+.highlight {
+  background-color: #E7E8F0 !important;
+  border-left: 4px solid #A53B3D !important;
+}
+.nested-child {
+  padding: 20px !important;
+}
+
+.animate-flicker {
+  -webkit-animation: flickerAnimation 2s infinite;
+  -moz-animation: flickerAnimation 2s infinite;
+  -o-animation: flickerAnimation 2s infinite;
+  animation: flickerAnimation 2s infinite;
+}
+.item-hover-tooltip {
+  display: flex;
+  justify-content: flex-start;
+}

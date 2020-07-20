@@ -1,0 +1,13 @@
+export const ROUTE_HOME_ID = 1;
+export const ROUTE_ABOUT_ID = 11;
+export const ROUTE_LOGIN_ID = 10;
+export const ROUTE_SIGNUP_ID = 12;
+export const ROUTE_DASHBOARD_ID = 2;
+export const ROUTE_USERS_ID = 3;
+export const ROUTE_AGENCIES_ID = 4;
+export const ROUTE_GATEWAYS_ID = 5;
+export const ROUTE_NODES_ID = 6;
+export const ROUTE_CONTROL_ID = 7;
+export const ROUTE_APP_USER_ID = 15;
+export const ROUTE_PRODUCT_ID = 123;
+export const ROUTE_PROFILE_ID = 8;

@@ -1,0 +1,26 @@
+.fileUploaderSubtext {
+  text-align: center;
+  text-transform: none;
+  margin-bottom: 0 !important;
+  font-size: 30px;
+  &.subtextBlue {
+    margin-left: 5px;
+    color: rgb(33, 150, 243);
+  }
+}
+.iconUpload {
+  color: rgb(33, 150, 243);
+  font-size: 40px !important;
+}
+.highlight {
+  background-color: rgba(255, 145, 145, 0.25);
+}
+.processContainer {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.processingText {
+  margin-left: 20px;
+}
